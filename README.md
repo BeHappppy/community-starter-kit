@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- This app makes a specific welcoming to new employies
+- welcoming based off of info about employies
+- relivies tension
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Says a welcoming to new employies
+- pastel theme
 
 ## Getting started
 
