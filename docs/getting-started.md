@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome to the repository, I see that you are adding a issue, if it is a bug or feature request please be sure to assign a label to it
